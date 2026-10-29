@@ -1,0 +1,15 @@
+
+# Autotools cache
+autom4te.cache/
+
+# Editor swap and backup files
+.*.swp
+*~
+
+# Generated editor tags index
+/src/tags
+
+# Generated Autotools files
+/Makefile.in
+/doc/stunnel.8.in
+/doc/stunnel.pl.8.in
